@@ -9,7 +9,7 @@ public class StringUtils {
 		}
 		return s.trim().length() == 0;
 	}
-	
+	//Segundo Método
 	public static boolean isNotEmpty(String s) {
 		
 		return !isEmpty(s);
