@@ -1,10 +1,13 @@
 package curso.java.alex;
 
+import java.util.Date;
+
 public class Pessoa {
     
 	private String nome;
 	private String sobrenome;
 	private int idade;
+	private Date dataNascimento2;
 	
 	
 	public int getIdade() {
