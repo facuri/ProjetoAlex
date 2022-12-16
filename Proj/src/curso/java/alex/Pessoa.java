@@ -9,6 +9,7 @@ public class Pessoa {
 	private int idade;
 	private Date dataNascimento2;
 	private Date dataCadastro;
+	private Date dataCompra;
 	
 	
 	public int getIdade() {
